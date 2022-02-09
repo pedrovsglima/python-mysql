@@ -1,5 +1,3 @@
-### Python + MySQL
-
 #### Objetivo
 
 Criar um projeto onde seja possível utilizar ambos os recursos do MySQL e da linguagem Python.
@@ -363,7 +361,7 @@ with con.cursor(buffered=True) as cursor:
 
 #### Respostas das questões
 
-Nesta parte será usada o comando "read_sql" da biblioteca pandas, essa função é capaz de armazenar o resultado de uma consulta SQL em um DataFrame
+Nesta parte será usada o comando "read_sql" da biblioteca pandas, essa função é capaz de armazenar o resultado de uma consulta SQL em um DataFrame.
 
 Mais detalhes: [https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html](https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html)
 
