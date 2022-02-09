@@ -20,7 +20,7 @@ Esta base de dados consiste em notas obtidas por alunos em várias disciplinas. 
 
 Esta é uma base de dados fictícia e deve ser usada apenas para fins educacionais.
 
-Disponível em: https://www.kaggle.com/spscientist/students-performance-in-exams
+Disponível em: [https://www.kaggle.com/spscientist/students-performance-in-exams](https://www.kaggle.com/spscientist/students-performance-in-exams)
 
 #### Resultados
 
@@ -39,13 +39,13 @@ A ideia deste documento é mostrar as funcionalidades das duas ferramentas traba
 MySQL connector é desenvolvido pelo grupo MySQL na Oracle, escrito inteiramente em Python.
 
 #### Referências
-Python and MySQL Database: A Practical Introduction - https://realpython.com/python-mysql/#comparing-mysql-to-other-sql-databases
+Python and MySQL Database: A Practical Introduction - [https://realpython.com/python-mysql/#comparing-mysql-to-other-sql-databases](https://realpython.com/python-mysql/#comparing-mysql-to-other-sql-databases)
 
-Getting Started with MySQL in Python - https://www.datacamp.com/community/tutorials/mysql-python
+Getting Started with MySQL in Python - [https://www.datacamp.com/community/tutorials/mysql-python](https://www.datacamp.com/community/tutorials/mysql-python)
 
-MySQL Connector/Python Developer Guide - https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html
+MySQL Connector/Python Developer Guide - [https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html)
 
-Python MySQL Database Connection using MySQL Connector - https://pynative.com/python-mysql-database-connection/#h-how-to-connect-mysql-database-in-python
+Python MySQL Database Connection using MySQL Connector - [https://pynative.com/python-mysql-database-connection/#h-how-to-connect-mysql-database-in-python](https://pynative.com/python-mysql-database-connection/#h-how-to-connect-mysql-database-in-python)
 
 
 #### Importar bibliotecas
@@ -365,7 +365,7 @@ with con.cursor(buffered=True) as cursor:
 
 Nesta parte será usada o comando "read_sql" da biblioteca pandas, essa função é capaz de armazenar o resultado de uma consulta SQL em um DataFrame
 
-Mais detalhes: https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html
+Mais detalhes: [https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html](https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html)
 
 ##### 1. Qual a média e desvio padrão das notas dos 3 exames de acordo com a escolaridade dos pais dos alunos?
 
